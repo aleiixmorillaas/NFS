@@ -230,4 +230,6 @@ Redacta una conclusió raonada amb les teves recomanacions per al client. Cal pl
 ## Material de suport
 
 - Material propi del mòdul: **NF1.UD4.A1 Compartició d'arxius i carpetes**.
-- Ruiz, P. *Capítulo 11: Instalar y configurar NFS en Ubuntu*. Sistemas Operativos en Red (Actualizado). SomeBooks.es, juny de 2022. [Enllaç](#).
+- Ruiz, P. *Capítulo 11: Instalar y configurar NFS en Ubuntu*. Sistemas Operativos en Red (Actualizado). SomeBooks.es, juny de 2022. <a href="https://somebooks.es/capitulo-10-instalar-y-configurar-nfs-en-ubuntu-14-04-lts/">Enllaç</a>
+ .
+ 
